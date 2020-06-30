@@ -1,0 +1,55 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "fname": "A",
+      "email": "a1@g.com",
+      "country": "IN",
+      "comment": "ok"
+    },
+    {
+      "fname": "nitin",
+      "email": "n1@fm.com",
+      "country": "IN",
+      "comment": "Yes",
+      "id": 2
+    },
+    {
+      "fname": "Neel",
+      "email": "n.1@s.com",
+      "country": "PK",
+      "comment": "yes",
+      "id": 3
+    },
+    {
+      "fname": "Abcd",
+      "email": "a@b.com",
+      "country": "IN",
+      "comment": "Test",
+      "id": 4
+    }
+  ],
+  "loan": [
+    {
+      "id": 1,
+      "loanAmount": "25000",
+      "accept": true,
+      "loanType": "P",
+      "loanId": 1
+    },
+    {
+      "loanAmount": "10000",
+      "accept": true,
+      "loanType": "P",
+      "loanId": 3,
+      "id": 2
+    },
+    {
+      "loanAmount": "20500",
+      "accept": true,
+      "loanType": "P",
+      "loanId": 4,
+      "id": 3
+    }
+  ]
+}
